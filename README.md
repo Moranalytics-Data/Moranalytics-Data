@@ -1,3 +1,3 @@
-## Hi there 👋
+## My name is John Moran; thank you for stopping by. 👋
 
-Greetings -- I am hopeful that this repository will soon feature some more extensive information.
+Data Enthusiast | Logical insight with an eye for detail, conveyed with a storyteller’s instinct.
