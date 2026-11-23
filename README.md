@@ -1,8 +1,14 @@
 ## My name is John Moran; thank you for stopping by. 👋
 
-#### **Data Enthusiast | Logical insight with an eye for detail, conveyed with a storyteller’s instinct.**
+### **Data Enthusiast | Logical insight with an eye for detail, conveyed with a storyteller’s instinct.**
 
-In my previous two decades as a director of communications, my job was to deliver information effectively and efficiently.  Now, as I explore the field of data analytics, the methods may be different — but the mission remains unchanged.
+#### In my previous two decades as a director of communications, my job was to deliver information effectively and efficiently.  Now, as I explore the field of data analytics, the methods may be different — but the mission remains unchanged.
+
+In the course of pursuing a learning plan designed by the highly regarded Maven Analytics, I have been gratified to realize just how much of my past experience – in communications, and in editing and proofreading – dovetails with this field. (In ways, it’s like I’ve been preparing for this my whole past professional life.)
+
+Working in communications has taught me how to analyze a situation of interest, distill it to its essential moving parts, and turn a spotlight on the crux of the issue – a veritable instruction manual for dissecting a business problem down to its beating heart. Meanwhile, the habits of good editing have left me well practiced in how to strip away redundancies, maximize an argument’s effectiveness, and – critically – tailor a message to its intended audience.
+
+And proofreading, of course, has ingrained in me an attention to detail, fastidiousness in following conventions, and an eye for maintaining consistency. (One thing that good prose and good SQL have in common: commas in the right places!)
 
 ---
 
